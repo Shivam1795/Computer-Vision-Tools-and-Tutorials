@@ -1,0 +1,4 @@
+# Computer-Vision-Tools-and-Tutorials
+This repo consists following CV tools & tutorials:
+
+1. Object segmentation using Colour Thresholding and solid color background replacement !
