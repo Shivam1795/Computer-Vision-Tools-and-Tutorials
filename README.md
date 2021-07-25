@@ -5,3 +5,5 @@ This repo consists following CV tools & tutorials:
    * main.py -> Python code.
    * images -> Folder with 3 images inside.
    * Tutorial.pdf -> Jupyter notebook with code explained line by line.
+
+2. Object segmentation and background removal using HSV colorspace.
