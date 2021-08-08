@@ -13,7 +13,7 @@ CV tools & tutorials:
    * notebook.pdf   -> Jupyter notebook in pdf format.
 
 3. Day-night images classification using machine learning methods !!
-   * Machine learning classifier.ipynb -> Classification using logistic regression and KNN.
+   * Machine learning classifier.ipynb -> Classification using logistic regression and KNN Classifier.
    * Thresholding.ipynb                -> Classification using a threshold value.
    * preprocessing.py                  -> Image preprocessing.
    * day_night_images                  -> A smaller version of the AMOS dataset (Archive of Many Outdoor Scenes).
