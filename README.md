@@ -22,3 +22,5 @@ CV tools & tutorials:
    (Frequency domain analysis of an image)
    * frequency_analysis.ipynb  --> Basic frequency analysis of images and comparison between two different images.
    * images       -> Folder with input images. (Source: Google images)
+   * freq_spectrum_filters.py  --> Allows you to experiment with the Low-pass, High-pass and Band-pass filter implementation on the frequency sepctrum of an image and observe its effects on gray-scale image.
+   * freq_spectrum_filters_demo.gif  --> Output of "freq_spectrum_filters.py" (A GUI demo)
