@@ -17,3 +17,8 @@ CV tools & tutorials:
    * Thresholding.ipynb                -> Classification using a threshold value.
    * preprocessing.py                  -> Image preprocessing.
    * day_night_images                  -> A smaller version of the AMOS dataset (Archive of Many Outdoor Scenes).
+
+4. Frequency_domain_image_analysis !!
+   (Frequency domain analysis of an image)
+   * frequency_analysis.ipynb  --> Basic frequency analysis of images and comparison between two different images.
+   * images       -> Folder with input images. (Source: Google images)
